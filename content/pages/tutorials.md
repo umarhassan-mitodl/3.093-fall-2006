@@ -8,7 +8,7 @@ title: Tutorials
 uid: a096a2be-1954-faf8-ec3f-834366b7c42a
 ---
 
-This page presents six Flash™ tutorial modules with narration by instructor Angie Locknar. Clicking on an SWF link will play the tutorial in a browser window, assuming you have the free {{% resource_link "61b062a9-808c-4a6b-b5fe-aa8d40491b08" "Flash™ Player software" %}} installed on your computer.
+This page presents six Flash™ tutorial modules with narration by instructor Angie Locknar. Clicking on an SWF link will play the tutorial in a browser window, assuming you have the free [Flash™ Player software](http://www.macromedia.com/) installed on your computer.
 
 Introduction \[6:30\] ([SWF - 4.6MB](/ans7870/3/3.093/f06/tutorials/intro.swf))
 -------------------------------------------------------------------------------
