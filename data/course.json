@@ -25,6 +25,7 @@
     "website": "3-093-information-exploration-becoming-a-savvy-scholar-fall-2006"
   },
   "course_title": "Information Exploration: Becoming a Savvy Scholar",
+  "hide_download": true,
   "course_description": "This freshman course explores the scientific publication cycle, primary vs. secondary sources, and online and in-print bibliographic databases; how to search, find, evaluate, and cite information; indexing and abstracting; using special resources (e.g. patents) and \"grey literature\" (e.g. technical reports and conference proceedings); conducting Web searches; and constructing literature reviews.\n",
   "department_numbers": [
     "3"
@@ -35,6 +36,7 @@
     "content": "ad01e141-2778-6fcb-d62c-95631c20947b",
     "website": "3-093-information-exploration-becoming-a-savvy-scholar-fall-2006"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Tutorial Videos",
     "Written Assignments"
