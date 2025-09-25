@@ -4,6 +4,8 @@ description: Sample research log.
 file: /courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/5c452791a8f695eb81aa81898682e28f_log_sample2.pdf
 file_size: 125076
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

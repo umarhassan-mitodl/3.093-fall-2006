@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/3-093-information-exploration-becoming-a-savvy-scholar-fall-2006/7d56c1871052ab53be7fc35c3ddc7e4f_assignment2.pdf
 file_size: 19682
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
